@@ -4,13 +4,12 @@
   <meta charset="UTF-8">
   <title>Cat Care</title>
 </head>
-
 <body>
   <header>
     <nav>
       <ul>
         <li><a href="index.html">Homepage</a></li>
-        <li><a href="resume.html">Resume</a></li>"
+        <li><a href="resume.html">Resume</a></li>
         <li><a href="page3.html">Cat Care</a></li>
       </ul>
     </nav>
@@ -28,7 +27,7 @@
 	
 	  <section>
        <h2>Exercise</h2>
-	    <img src="cat-playing.jpg" alt="Activity is important width="300" height="100"">
+	    <img src="cat-playing.jpg" alt="Activity is important width="300" height="100">
           <p>You should play with your cat for at least 15 min a day. </p>
 	      <p>Give them toys with feathers and strings and lasers. They like to use their hunting skills. </p>
 	      <p>Playing is important to keep their weight healthy and mental wellbeing sharp. </P>
@@ -61,4 +60,5 @@
 	  <footer>
     </footer>
   </body>
+ </html>
 
